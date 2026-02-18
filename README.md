@@ -1,3 +1,5 @@
+FREE SCRIPT https://siik-scripts-store.tebex.io/package/7290110
+
 # SiiK-H-portable-crafting (FULL + Anti-Dupe)
 
 This build includes:
